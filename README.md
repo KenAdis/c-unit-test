@@ -1,9 +1,9 @@
-C Unit Test Exercise
-This repository demonstrates how to build and run unit tests for a C project using Docker and GitHub Actions.
+# C Unit Test Exercise
 
-🚀 Features
-Minimal C project with unit tests
+This repository contains a simple C project with unit tests, designed to demonstrate Docker-based testing and GitHub Actions for CI.
 
-Dockerized build and test environment
+## 🚀 Features
 
-Automated CI pipeline using GitHub Actions
+- Unit tests for C code
+- Dockerfile for consistent test environment
+- GitHub Actions workflow to automate testing on push
